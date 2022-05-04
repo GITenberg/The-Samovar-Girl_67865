@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/67865">
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/3782">
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1881</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Frederick_Ferdinand_Moore"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1947</pgterms:deathdate>
+        <pgterms:alias>Moore, Frederick F. (Frederick Ferdinand)</pgterms:alias>
+        <pgterms:name>Moore, Frederick Ferdinand</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <pgterms:marc904>https://archive.org/details/samovargirl00moor/mode/2up</pgterms:marc904>
+    <pgterms:marc905>20200410121922frederickf</pgterms:marc905>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67865/pg67865.cover.medium.jpg">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13187</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:26.036954</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfdbec2db809d4b73922119f3f7a012cb">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc260>United States :D. Appleton and Company,1921.</pgterms:marc260>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67865/67865-h/67865-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T14:19:47</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">627023</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N818853c70c3d4afcb2c72a8a1549625b">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67865/67865-h.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459735</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2c04dd35a2324c8fa1df4f58d05f8d4c">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5b0b50465f7c41c5a80f56066b841f25">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T14:19:48</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>The Samovar Girl</dcterms:title>
+    <dcterms:license rdf:resource="license"/>
+    <pgterms:marc508>D A Alexander, Barry Abrahamsen, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)</pgterms:marc508>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67865.epub.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N42724d3ca808449db042bd097c81e49b">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">321251</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:24.169921</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N6dd608e2f8434dec93a972860d81b6d9">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Siberia (Russia) -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N03cb4f4fe7c04245bec8f2c66d603ae8">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N32643bcdd98c4d9abcec2106145efd33">
+        <rdf:value>PS</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67865/67865-0.txt">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N81d017376ca44c64962f5c9da76baedb">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T14:19:47</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551102</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67865.rdf">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na1dd5fc773b94dc3ad41cbccc34c9870">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:28.932939</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6101</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67865.epub.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">506211</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne924aa47a8d147c2bb5454293a889b4d">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:26.720943</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc010>21010335</pgterms:marc010>
+    <pgterms:marc906>1921</pgterms:marc906>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">764</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67865.html.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">613118</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N82a8d658671b4ed190f40804ef45b885">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:22.943892</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67865/pg67865.cover.small.jpg">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1822</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf924a15000f74ae9bd950d712dcf40b2">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:25.951925</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nd67776642e3c4c4abdd01cc7dfa17da9">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Russia (Federation) -- History -- Revolution, 1917-1921 -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67865.kindle.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ncb2b6187df394c54bee7bf964b8c48b7">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1652192</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:28.797940</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67865/67865-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196700</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1e0b29a9489447208e72d2a1c1ec6e02">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T14:19:48</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne2893fb36c2644eaa3e77b3510e1d6f7">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc907>US</pgterms:marc907>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67865.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1163491</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:25.862924</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne2ae95bc36b24822bc69cb2aabab3136">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-04-18</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67865.txt.utf-8">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-04-18T15:00:22.329914</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551102</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67865"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8db270737af84b79931a8fe8434c3e74">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Frederick_Ferdinand_Moore">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
